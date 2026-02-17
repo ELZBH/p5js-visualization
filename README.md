@@ -3,7 +3,7 @@ An assignment completed for Charlie Robert's IMGD5010 Fundamentals Course.
 
 ## p5.js code
 
-link: https://editor.p5js.org/ELZBH/sketches/nvbLzkKqW
+link: [https://editor.p5js.org/ELZBH/sketches/nvbLzkKqW](https://editor.p5js.org/ELZBH/sketches/nvbLzkKqW)
 
 <img width="870" height="284" alt="image" src="https://github.com/user-attachments/assets/b70e7c2e-3cf9-4640-98d5-359514fbc704" />
 
